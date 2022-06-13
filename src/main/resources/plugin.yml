@@ -1,0 +1,7 @@
+name: 251Smp
+version: '${project.version}'
+main: me.so_clownish.smp.Smp
+api-version: 1.19
+authors: [ So_Clownish ]
+description: 251 SMP plugin
+website: minecraft.251.org
