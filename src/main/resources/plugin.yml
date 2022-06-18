@@ -1,7 +1,13 @@
-name: 251Smp
+name: Plugin251
 version: '${project.version}'
-main: me.so_clownish.smp.Smp
+main: me.so_clownish.plugin251.Plugin251
 api-version: 1.19
-authors: [ So_Clownish ]
-description: 251 SMP plugin
-website: minecraft.251.org
+commands:
+  rules:
+    description: Rules
+  website:
+    aliases:
+      - url
+      - 251
+      - 251SMP
+    description: url
